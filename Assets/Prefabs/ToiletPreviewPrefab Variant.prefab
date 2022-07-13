@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2863220461875922145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8165420030122047515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19db71bc11a60446a03e5fa6c5bab27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BuildableMaterial: {fileID: 2100000, guid: c97dad0adbf9efb4b80a38b7e5ec62f1, type: 2}
+  UnbuildableMaterial: {fileID: 2100000, guid: 081b5b8508883a840841516f7809dcbe, type: 2}
+  Buildable: 0
+--- !u!1001 &2740713910814456510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9102702315991723142, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_Name
+      value: ToiletPreviewPrefab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 9102702315991723142, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.153496
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.743315
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209897559541508467, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6294236255749767845, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 605017825484014095, guid: c51449cbefaad974b814dfb2434b18b2,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c51449cbefaad974b814dfb2434b18b2, type: 3}
+--- !u!1 &8165420030122047515 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6294236255749767845, guid: c51449cbefaad974b814dfb2434b18b2,
+    type: 3}
+  m_PrefabInstance: {fileID: 2740713910814456510}
+  m_PrefabAsset: {fileID: 0}

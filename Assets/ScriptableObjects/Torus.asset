@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3853d4b3d51ea439ab8c06590b57a3, type: 3}
+  m_Name: Torus
+  m_EditorClassIdentifier: 
+  PreviewPrefab: {fileID: 6677501761009527814, guid: a7aecb37cd83cbf449436d6b16be20ea,
+    type: 3}
+  BuildingElementPrefab: {fileID: 8524237959672900903, guid: bd13ae7f2b649a942b91dab8dd91c46d,
+    type: 3}
+  MenuElement:
+    Name: Torus
+    Description: Basically a Donut.
+    ButtonBackground: {fileID: 0}
+    ButtonIcon: {fileID: 21300000, guid: 28bcca87ba657ad468fb65d8f1988875, type: 3}

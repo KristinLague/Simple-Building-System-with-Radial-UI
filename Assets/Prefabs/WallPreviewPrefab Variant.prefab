@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &7197342314010159171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6998876967356270074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19db71bc11a60446a03e5fa6c5bab27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BuildableMaterial: {fileID: 2100000, guid: c97dad0adbf9efb4b80a38b7e5ec62f1, type: 2}
+  UnbuildableMaterial: {fileID: 2100000, guid: 081b5b8508883a840841516f7809dcbe, type: 2}
+  Buildable: 0
+--- !u!1001 &4724769017361667205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3549257219781610082, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_Name
+      value: WallPreviewPrefab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549257219781610082, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.589015
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5159695e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.330919
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540442495570335173, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355595799849734527, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2589583215234515952, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5410352936686111502, guid: 9439716bf9498b84bb2363f8e4615dfe,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9439716bf9498b84bb2363f8e4615dfe, type: 3}
+--- !u!1 &6998876967356270074 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2355595799849734527, guid: 9439716bf9498b84bb2363f8e4615dfe,
+    type: 3}
+  m_PrefabInstance: {fileID: 4724769017361667205}
+  m_PrefabAsset: {fileID: 0}

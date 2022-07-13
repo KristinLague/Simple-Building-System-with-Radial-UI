@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3853d4b3d51ea439ab8c06590b57a3, type: 3}
+  m_Name: TV
+  m_EditorClassIdentifier: 
+  PreviewPrefab: {fileID: 7926566698211201927, guid: d4d7b9b2a7f83994bae666eb70be0957,
+    type: 3}
+  BuildingElementPrefab: {fileID: 952599286822142579, guid: 5d07edc4e2330d647aab283006fb7fa6,
+    type: 3}
+  MenuElement:
+    Name: TV
+    Description: Let me entertain you.
+    ButtonBackground: {fileID: 0}
+    ButtonIcon: {fileID: 21300000, guid: bf1604f4ff96c484eab1c686be32289f, type: 3}

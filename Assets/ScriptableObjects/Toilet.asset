@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3853d4b3d51ea439ab8c06590b57a3, type: 3}
+  m_Name: Toilet
+  m_EditorClassIdentifier: 
+  PreviewPrefab: {fileID: 6366879589265757752, guid: 84e2b87ad487eac40ad4f36319849826,
+    type: 3}
+  BuildingElementPrefab: {fileID: 9102702315991723142, guid: c51449cbefaad974b814dfb2434b18b2,
+    type: 3}
+  MenuElement:
+    Name: Toilet
+    Description: Dealing with people's shit daily.
+    ButtonBackground: {fileID: 0}
+    ButtonIcon: {fileID: 21300000, guid: 5c7e2bdb6b66d874abd30cc6cc785efd, type: 3}

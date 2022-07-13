@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3853d4b3d51ea439ab8c06590b57a3, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  PreviewPrefab: {fileID: 8129207066025778919, guid: de571a3e93c301e4eba1bdb5936f4081,
+    type: 3}
+  BuildingElementPrefab: {fileID: 3549257219781610082, guid: 9439716bf9498b84bb2363f8e4615dfe,
+    type: 3}
+  MenuElement:
+    Name: Wall
+    Description: Windprotection
+    ButtonBackground: {fileID: 0}
+    ButtonIcon: {fileID: 21300000, guid: d7a1bef1c033df84596f07030c5436a1, type: 3}
